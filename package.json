@@ -1,0 +1,25 @@
+{
+  "name": "colorize-lacona-argument",
+  "version": "0.1.0",
+  "description": "Hash lacona argument names to get style numbers",
+  "main": "index.js",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.1.2"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brandonhorst/colorize-lacona-argument.git"
+  },
+  "author": "@brandonhorst",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/brandonhorst/colorize-lacona-argument/issues"
+  },
+  "homepage": "https://github.com/brandonhorst/colorize-lacona-argument#readme"
+}
